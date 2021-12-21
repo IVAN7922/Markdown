@@ -1,4 +1,4 @@
-[< к содержанию](./work_in_git)
+[< к содержанию](./work_in_git.md)
 
 # git _checkout_
 
