@@ -1,3 +1,5 @@
+[< к содержанию](./work_in_git)
+
 # git _checkout_
 
 ---
