@@ -1,4 +1,4 @@
-[<*К содержанию*](./readme.md)
+[<*К Содержанию*](./readme.md)
 
 # git _checkout_
 
